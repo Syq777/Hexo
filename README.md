@@ -1,0 +1,2 @@
+# Hexo
+syq‘s Hexo
